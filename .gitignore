@@ -1,0 +1,4 @@
+vendor
+admin/node_modules
+admin/dist
+.DS_Store

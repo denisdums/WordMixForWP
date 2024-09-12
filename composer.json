@@ -1,0 +1,18 @@
+{
+  "name": "denisdums/wordmix",
+  "autoload": {
+    "psr-4": {
+      "WordMix\\": "classes/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Denis Dumont",
+      "email": "denis.dumont09@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-curl": "*",
+    "ext-dom": "*"
+  }
+}
